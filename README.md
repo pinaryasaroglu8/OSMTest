@@ -2,5 +2,5 @@ Kullanıcıdan alınan Order ID ile In Progress te takılı kalmış olan order 
 
 Aşağıdakiler kullanılarak yapılmıştır.
 
-Select, Actions Class'ları, Implicit Wait, CSS, Xpath 
+Select ve Actions Class'ları, Implicit Wait, CSS, Xpath 
 
